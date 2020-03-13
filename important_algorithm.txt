@@ -1,0 +1,7 @@
+https://colab.research.google.com/drive/1gWwUa3ASZLJTijy3JoJl_nEqHlwHVIeB#scrollTo=iTKdAj4dNR1y
+
+https://medium.com/analytics-vidhya/hyperparameters-optimization-for-lightgbm-catboost-and-xgboost-regressors-using-bayesian-6e7c495947a9
+
+https://mlfromscratch.com/gridsearch-keras-sklearn/#xgboost
+
+https://setscholars.net/wp-content/uploads/2019/02/find-optimal-parameters-for-CatBoost-using-GridSearchCV-for-Classification-in-Python.html
